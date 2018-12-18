@@ -1,9 +1,7 @@
 Sample usage:
 
     Using config file "./manage_messages.conf"
-    usage: manage_messages.py [-h] [-v {0,1,2,3}] [-d] [-a [APPS [APPS ...]]]
-                              [-l [LANGUAGES [LANGUAGES ...]]]
-                              command
+    usage: manage_messages.py [-h] [-v {0,1,2,3}] [-d] [-a [APPS [APPS ...]]] [-l [LANGUAGES [LANGUAGES ...]]] command
 
     positional arguments:
       command               make|compile|collect|install
